@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Basketball",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/600px-Basketball_Clipart.svg.png?20221009012348",
+        "description": "A classic basketball for outdoor and indoor play.",
+        "price": 19.99,
+        "ratings": 4.5
+    },
+    {
+        "title": "Soccer Ball",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/900px-Soccer_ball.svg.png?20220813134146",
+        "description": "A durable soccer ball for practicing your skills.",
+        "price": 14.99,
+        "ratings": 4.2
+    },
+    {
+        "title": "Baseball Glove",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Baseball_glove.png/640px-Baseball_glove.png",
+        "description": "A comfortable glove for catching and fielding baseballs.",
+        "price": 24.99,
+        "ratings": 4.7
+    },
+    {
+        "title": "Tennis Racket",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tennis_Racket_and_Balls.jpg/640px-Tennis_Racket_and_Balls.jpg",
+        "description": "A lightweight racket for playing tennis.",
+        "price": 29.99,
+        "ratings": 4.4
+    },
+    {
+        "title": "Swimming Goggles",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flying_goggles_1980s_on_paper_bag_01.jpg/640px-Flying_goggles_1980s_on_paper_bag_01.jpg",
+        "description": "Protective goggles for swimming underwater.",
+        "price": 9.99,
+        "ratings": 4.6
+    },
+    {
+        "title": "Jump Rope",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jump_rope_in_ground.jpg/640px-Jump_rope_in_ground.jpg",
+        "description": "A colorful jump rope for fun and exercise.",
+        "price": 7.99,
+        "ratings": 4.1
+    },
+    {
+        "title": "Hockey Stick",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Field_hockey_at_the_2012_Summer_Olympics_-_NZL-AUS_%287796665032%29.jpg/640px-Field_hockey_at_the_2012_Summer_Olympics_-_NZL-AUS_%287796665032%29.jpg",
+        "description": "A sturdy stick for playing ice hockey.",
+        "price": 34.99,
+        "ratings": 4.3
+    },
+    {
+        "title": "Skateboard",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Electric_Skateboard.png/640px-Electric_Skateboard.png",
+        "description": "A cool skateboard for tricks and cruising.",
+        "price": 39.99,
+        "ratings": 4.8
+    },
+    {
+        "title": "Volleyball",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/A_person_holding_basket_ball_in_his_hand.JPG/640px-A_person_holding_basket_ball_in_his_hand.JPG",
+        "description": "A soft volleyball for recreational play.",
+        "price": 12.99,
+        "ratings": 4.0
+    },
+    {
+        "title": "Golf Club Set",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Golf_clubs.jpg/640px-Golf_clubs.jpg",
+        "description": "A set of golf clubs for aspiring golfers.",
+        "price": 59.99,
+        "ratings": 4.9
+    },
+    {
+        "title": "Table Tennis Paddle",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2016-02-07_13-16-22_ping-pong-belfort.jpg/640px-2016-02-07_13-16-22_ping-pong-belfort.jpg",
+        "description": "A high-quality paddle for table tennis matches.",
+        "price": 17.99,
+        "ratings": 4.5
+    },
+    {
+        "title": "Badminton Set",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Internationale_open_Nederlandse_kampioenschappen_badminto_Marjan_Ridder_%28l%29_met_%2C_Bestanddeelnr_930-1167.jpg/640px-Internationale_open_Nederlandse_kampioenschappen_badminto_Marjan_Ridder_%28l%29_met_%2C_Bestanddeelnr_930-1167.jpg",
+        "description": "A complete set for playing badminton with friends.",
+        "price": 29.99,
+        "ratings": 4.3
+    }
+]
